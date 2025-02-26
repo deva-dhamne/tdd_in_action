@@ -1,0 +1,25 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TDD in action/FizzBuzz.UnitTests/FizzBuzz.UnitTests/obj
+/TDD in action/PasswordValidator.UnitTests/PasswordValidator.UnitTests/obj
+/TDD in action/PasswordValidator.UnitTests/PasswordValidator.UnitTests/bin/Debug/net8.0
+/TDD in action/PasswordValidator.UnitTests/.vs
+/TDD in action/ShoppingCart/ShoppingCart.UnitTests/obj
+/TDD in action/ShoppingCart/.vs
+/TDD in action/ShoppingCart.UnitTests/ShoppingCart.Core/bin/Debug/net8.0
+/TDD in action/ShoppingCart.UnitTests/ShoppingCart.Core/obj
+/TDD in action/VP.ShoppingCart/VP.ShoppingCart/bin/Debug/net8.0
+/TDD in action/VP.ShoppingCart/VP.ShoppingCart/obj
+/TDD in action/Villaplus.ShoppingCart/Villaplus.ShoppingCart/bin/Debug/net8.0
+/TDD in action/Villaplus.ShoppingCart/Villaplus.ShoppingCart/obj
+/TDD in action/ShoppingCart.UnitTests/ShoppingCart.UnitTests/bin
+/TDD in action/ShoppingCart.UnitTests/ShoppingCart.UnitTests/obj
+/TDD in action/Villaplus.ShoppingCart/.vs
+/TDD in action/Villaplus.ShoppingCart/Villaplus.ShoppingCart.UnitTests/bin
+/TDD in action/Villaplus.ShoppingCart/Villaplus.ShoppingCart.UnitTests/obj
+/TDD in action/VP.ShoppingCart/.vs
+/TDD in action/FizzBuzz.UnitTests/.vs
+/.vs
+/TDD in action/FizzBuzz.UnitTests/FizzBuzz.UnitTests/bin/Debug/net8.0
